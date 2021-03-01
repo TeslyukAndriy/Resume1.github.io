@@ -1,0 +1,226 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: #f5f7fa;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-family:Montserrat;
+}
+.oll-list{
+    background: white;
+    display: flex;
+    max-width:1200px ;
+    margin:0 auto;
+    padding: 20px;
+    box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+}
+.sidebar{
+    background:#1e2939;
+    width: 370px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.my-foto{
+    width: 370px;
+}
+.abaut-me-conteiner{
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-top: 110px;
+    padding-bottom: 110px;
+}
+.contacts-conteiner{
+    margin-left: 40px;
+    margin-top: 60px;
+    margin-right: 40px;
+}
+.contakts-title{
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 20px;
+}
+.fon-emeil{
+    color: #ffffff;
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 700;
+}
+.contact{
+    color: #656c77  ;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 10px;
+}
+.tech-skills-conteiner{
+    margin-left: 40px;
+    margin-top: 55px;
+    margin-right: 40px;
+
+}
+.tech-skills{
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+.spusok-tehnologi{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color:#ff6b08;
+    margin-left: 20px;
+}
+.li-text-tech{
+    color:#c4c7cb;
+}
+.soft-skills-conteiner{
+    margin-left: 40px;
+    margin-top: 55px;
+    margin-right: 40px;
+}
+.soft-skills-h3{
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+.soft-skills-ul-conteiner{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color:#ff6b08;
+    margin-left: 20px;
+}
+.soft-skills-li-conteiner{
+    color:#c4c7cb;
+}
+.profeshin{
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+}
+.my-name{
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 1.2;
+    padding-top: 25px;
+}
+.my-opus{
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: 24px;
+}
+.projects-conteiner{
+    margin-top: 65px;
+}
+.projects-conteiner-h3{
+    color: #000000;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+}
+.my-projects-ol{
+    color: #000000;
+    margin-top: 12px;
+    margin-left: 15px;
+}
+.my-projects-ol{
+    color: #000000;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+}
+a{
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.not-bolt{
+    color: #595959;
+    font-size: 14px;
+    font-weight: 100;
+    line-height: 24px;
+}
+.work-experience-conteiner{
+    margin-top: 55px;
+}
+.work-experience-h3{
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+}
+.company1{
+    color: #000000;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-top: 18px;
+}
+.company1-h4{
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-top: 18px;
+}
+.orang-color{
+    color: #ff7a21;
+}
+.time{
+    color: #a8a8a8;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-top: 14px;
+}
+.company1-ul{
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 15px;
+}
+.big{
+    width: 1px;
+    height: 14px;
+    color: #000000;
+    font-weight: 700;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.education-conteiner{
+    margin-top: 55px;
+    margin-right: 250px;
+}
+.education-h3{
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+}
+.education-h4{
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #ff7a21;
+    margin-top: 21px;
+}
+.education-h5{
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-top: 15px;
+}
+.linc{
+    text-decoration: none;
+}
